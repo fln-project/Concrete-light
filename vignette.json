@@ -7,6 +7,7 @@ Laser: support et attaches des connectiques
 Impression 3D: cache des connectiques",
   "medias": "https://vimeo.com/166241555, /doc/images/concrete_light1.png, /doc/images/concrete_light2.png, /doc/images/concrete_light3.png",
   "tags": "3d-printing,laser,router-cnc",
+  "link": "https://github.com/fln-project/Concrete-light",
   "author": {
     "name": "Gaëtan Bussy",
     "url": "http://g-trema.ch"
