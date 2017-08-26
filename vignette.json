@@ -5,7 +5,7 @@ Ici, la création de lampe en béton est passée par l'utilisation de plusieurs 
 Fraiseuse CNC: usinage du moule
 Laser: support et attaches des connectiques
 Impression 3D: cache des connectiques",
-  "media": "https://vimeo.com/166241555, /doc/images/concrete_light1.png, /doc/images/concrete_light2.png, /doc/images/concrete_light3.png",
+  "medias": "https://vimeo.com/166241555, /doc/images/concrete_light1.png, /doc/images/concrete_light2.png, /doc/images/concrete_light3.png",
   "tags": "3d-printing,laser,router-cnc",
   "author": {
     "name": "Gaëtan Bussy",
